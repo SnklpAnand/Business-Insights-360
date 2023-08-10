@@ -22,4 +22,4 @@
 ● **RESULT** - The generated insights will help stakeholders in the data-driven decisions in their businesses with accuracy & precision. 
 
 
-You can view the full report by clicking on the following **LINK** : [https://app.powerbi.com/view?r=eyJrIjoiYTAzMWNkYmItNDNhMS00YzQ1LTkzYTYtY2JmOTFjM2VlMmJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+You can view the full report by clicking on the following **LINK** : [https://app.powerbi.com/view?r=eyJrIjoiZTcwYzdmMTYtMzI3OS00MzgyLTg4NTktOTQxOTg4NDYzOWMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
